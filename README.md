@@ -18,5 +18,5 @@ Manual installation
 
  - _pip install requests_toolbelt_
 
-#Faucet
+# Faucet
  - [here](https://macrobits.io/?ref=52452)
